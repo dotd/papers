@@ -26,5 +26,5 @@ ViT + Q-Former => Liner Layer => Vicuna
 
 The linear layer is the only tuned layer!
 
-<img src="../images/MiniGPTFig1Architecture.jpg" width="200" height="100">
+<img src="../images/MiniGPTFig1Architecture.jpg" width="500">
 
